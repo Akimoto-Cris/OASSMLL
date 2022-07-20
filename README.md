@@ -1,5 +1,5 @@
 # Object-Aware-Self-Supervised-Multi-Label-Learning
-The official implementation of "OBJECT-AWARE SELF-SUPERVISED MULTI-LABEL LEARNING".
+The official implementation of our ICIP22' paper "Object-Aware-Self-Supervised-Multi-Label-Learning".
 
 ## Citation
 - Please cite our paper if the code is helpful to your research. [arxiv](https://doi.org/10.48550/arXiv.2205.07028)
